@@ -1,0 +1,173 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?tomleg");
+  src: url("../fonts/icomoon.eot?tomleg#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?tomleg") format("truetype"),
+    url("../fonts/icomoon.woff?tomleg") format("woff"),
+    url("../fonts/icomoon.svg?tomleg#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+.sk img{
+    position: absolute;
+top: 40px;
+left: 190px;
+padding: 3px 0 3px 14px;
+border-left: 1px solid #b1191a;
+}
+.sk_list{
+    float: left;
+}
+.sk_list ul li {
+float: left;
+}
+.sk_list ul li a {
+font-size: 16px;
+    color: #000;
+    display: block;
+    line-height: 47px;
+    padding: 0 15px;
+    font-weight: 700;
+}
+.sk_con ul li {
+    float: left;
+    margin-left: 58px;
+}
+.sk_con ul li:nth-child(9) a::after{
+    font-family: "icomoon";
+    content: "\e91e";
+}
+.sk_con ul li a {
+    font-size: 14px;
+    color: #666666;
+        line-height: 47px;
+}
+.sk_container{
+    width: 1200px;
+
+    margin: 0 auto;
+}
+.sk_container .sk_hd{
+    height: 120px; 
+    position: relative;  
+    background: url(../images/女鞋背景.png) no-repeat;
+}
+.sk_container .sk_hd .nx {
+    position: absolute;
+    top:27px;
+    left: 50%;
+    margin-left: -46.5px;
+    width: 93px;
+    height: 29px;
+}
+.sk_container .sk_hd p {
+    float: left;
+    font-weight: 700;
+    font-size: 24px;
+    color: #c81523;
+}
+.sk_container .sk_hd img{
+    float: left;
+}
+.sk_container .sk_hd .zzqg{
+    position: absolute;
+    top: 81px;
+    left: 50%;
+    margin-left: -103.5px;
+    width: 207px;
+    height: 15px;
+}
+.sk_container .sk_hd .zzqg .heixian{
+   margin-top: 7px;
+    float: left;
+    width: 50px;
+    height: 1px;
+    background-color: #000;
+}
+.sk_container .sk_hd .zzqg h5{
+    float: left;
+    margin: 0 20px;
+     line-height: 15px;
+}
+.sk_bd ul {
+    float: left;
+        margin-right: 10px;
+
+}
+.sk_bd ul li:hover{
+    border: 1px solid #e12228;
+}
+.sk_bd ul:nth-child(4n) {
+    margin-right: 0;
+}
+.sk_bd ul li{
+overflow: hidden;
+    width: 280.99px;
+    height: 390px;
+      border: 1px solid transparent;
+}
+.sk_bd ul li p {
+
+    font-size: 14px;
+    line-height: 17px;
+    color: #666;
+    padding-left: 13px;
+    padding-right: 12px;
+}
+.sk_bd .zi{
+    width: 120px;
+    height: 18px;   
+     margin-left: 15px;
+}
+.sk_bd ul li h5{
+    float: left;
+    font-size: 14px;
+    color: #e60012;
+}
+.sk_bd ul li h5 strong{
+ font-size: 22px;
+}
+.sk_bd  .zi ul li span{
+    float: left;
+    font-size: 14px;
+    color:#a4a4a4;
+}
+.sk_bd ul li .jdt{
+    float: left;
+    margin-top: 10px;
+   margin-left: 10px;
+    width: 260px;
+    height: 14px;
+        line-height: 14px;
+
+}
+.sk_bd ul li .jdt i{
+    float: left;
+}
+.sk_bd ul li .jdt .jd{
+    float: left;
+    width: 133px;
+    height: 13px;
+    margin: 0 12px;
+    border: 1px solid #e12228;
+            border-radius: 7px;
+}
+.sk_bd ul li .jdt .jd .jdcd{
+    width: 87%;
+    height:100%;
+ border-radius: 7px;
+    background-color:#e12228;
+}
+.sk_bd .ljqg{
+    width: 282.99px;
+    height: 51px;
+    background-color:#b1191a;
+}
+.sk_bd .ljqg h5{
+    line-height: 51px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+}
