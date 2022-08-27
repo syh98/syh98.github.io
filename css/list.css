@@ -108,7 +108,7 @@ overflow: hidden;
       border: 1px solid transparent;
 }
 .sk_bd ul li p {
-
+    word-break: break-all;
     font-size: 14px;
     line-height: 17px;
     color: #666;
